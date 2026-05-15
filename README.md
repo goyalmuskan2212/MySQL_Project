@@ -137,8 +137,3 @@ Passionate about Data Analytics, SQL, and solving real-world business problems u
 * Perform advanced trend forecasting
 * Add Python-based analysis
 
----
-
-## GitHub
-
-This project demonstrates practical SQL skills for portfolio building and interview preparation in Data Analytics and Data Science roles.
